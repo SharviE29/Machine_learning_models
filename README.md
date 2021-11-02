@@ -23,7 +23,7 @@
   b) This model attempts to  explain a dependent variable using more than one independent variable. 
   
   
-  ### 3.Polynomial Linear regression
+  ### <u> 3.Polynomial Linear regression</u>
   Dataset used:
   [Position_Salaries.csv](https://github.com/SharviE29/machine_learning_models/files/7453279/Position_Salaries.csv)
 
