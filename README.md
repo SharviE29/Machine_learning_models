@@ -23,3 +23,6 @@
    Dataset used:
        [Position_Salaries.csv](https://github.com/SharviE29/machine_learning_models/files/7453279/Position_Salaries.csv)
 
+4. Support vector regression
+5. Decision tree regression
+6. Random forest regression
